@@ -1,227 +1,305 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Hey there, I'm Disha Patil!
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Developer+%7C+Automation+Enthusiast;Transforming+Ideas+into+Intelligent+Solutions)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🚀 About Me
-
-🎓 **AI & ML Engineer** | Saraswati College of Engineering  
-🤖 Building intelligent systems that make a difference  
-⚡ Passionate about **RPA, NLP & GenAI**  
-🌱 Currently exploring **LLMs & Advanced AI Workflows**  
-💡 Always ready to collaborate on innovative projects  
-
-<br/>
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="http://linkedin.com/in/dishaaap" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:disha.patil404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:7276819303"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>💻 Languages & Core Skills</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br/>
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Automation</b></summary>
-<br/>
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Gen AI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=ai&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💾 Databases</b></summary>
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
----
-
-## 🎯 Featured Projects
-
 <div align="center">
 
-### 🚨 Aberto EMS - AI Emergency Response System
-**Saving lives with AI-driven emergency assistance**
-
-```python
-emergency_system = {
-    "response_time_reduction": "20%",
-    "features": ["AI Chatbot", "First-Aid Guidance", "Emergency Dispatch"],
-    "impact": "Faster emergency response & immediate assistance"
-}
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║        ██████╗ ██╗███████╗██╗  ██╗ █████╗     ██████╗ ███████╗       ║
+║        ██╔══██╗██║██╔════╝██║  ██║██╔══██╗    ██╔══██╗██╔════╝       ║
+║        ██║  ██║██║███████╗███████║███████║    ██████╔╝███████╗       ║
+║        ██║  ██║██║╚════██║██╔══██║██╔══██║    ██╔═══╝ ╚════██║       ║
+║        ██████╔╝██║███████║██║  ██║██║  ██║    ██║     ███████║       ║
+║        ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚══════╝       ║
+║                                                                       ║
+║               ☕ Welcome to My Cozy Corner of Code ☕                 ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-**Tech Stack:** `Python` `Django` `AI/LLM` `JavaScript` `HTML/CSS`
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Automation+Artisan;Brewing+Intelligent+Solutions;One+Algorithm+at+a+Time" alt="Typing SVG" />
 
----
-
-### 🍕 Food Ordering Platform
-**Seamless dining experience at your fingertips**
-
-```python
-features = [
-    "Dynamic Menu Browsing",
-    "Smart Cart Management",
-    "Efficient Order Processing",
-    "Intuitive UI/UX"
-]
+```
+    ☕ ☕ ☕
+   (   (   (
+    )   )   )
+  .-""""-."""-.
+  |  D.P.  |
+  |   CAFÉ  |
+  |  Est.404|
+  '---------'
 ```
 
-**Tech Stack:** `Python` `Django` `SQL` `HTML/CSS`
+[![LinkedIn](https://img.shields.io/badge/☕_LinkedIn-654321?style=for-the-badge&logo=linkedin&logoColor=F5DEB3)](http://linkedin.com/in/dishaaap)
+[![Gmail](https://img.shields.io/badge/☕_Email-8B4513?style=for-the-badge&logo=gmail&logoColor=F5DEB3)](mailto:disha.patil404@gmail.com)
+[![Phone](https://img.shields.io/badge/☕_Call-A0522D?style=for-the-badge&logo=phone&logoColor=F5DEB3)](tel:7276819303)
+
+</div>
 
 ---
 
-### ✈️ AI Travel Itinerary Generator
-**Your personal AI travel planner**
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border: 3px solid #8B4513; border-radius: 15px; padding: 10px; background: #FFF8DC;"/>
 
-```python
-travel_ai = {
-    "capabilities": ["Budget Planning", "Day-wise Itineraries", "Smart Recommendations"],
-    "tech": ["GANs", "Model Evaluation", "SQLite Database"],
-    "outcome": "Personalized travel experiences"
-}
+### 📜 The Story Behind the Code
+
+```
+┌─────────────────────────────────────┐
+│  ☕ Artisan AI Developer            │
+│  🎓 AIML Engineering Enthusiast     │
+│  🤖 Automation Craftsperson         │
+│  💡 GenAI & LLM Explorer            │
+│  📍 Brewing from Mumbai, India      │
+└─────────────────────────────────────┘
 ```
 
-**Tech Stack:** `Python` `Django` `GANs` `SQLite` `AI Models`
+*Just like a perfect espresso, I blend precision with creativity to craft intelligent solutions. Currently perfecting the art of **AI automation**, **NLP**, and **LLM-powered applications** at Saraswati College of Engineering.*
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## ☕ My Artisan Toolkit ☕
+
+*Carefully curated ingredients for crafting exceptional digital experiences*
+
+</div>
+
+### 🎨 The Foundation - Languages
+
+```
+┌──────────────┬──────────────┬──────────────┬──────────────┐
+│    Python    │      C       │     SQL      │  JavaScript  │
+│   ☕☕☕☕☕   │   ☕☕☕☕     │   ☕☕☕☕     │    ☕☕☕     │
+│   Master     │   Proficient │  Proficient  │  Learning    │
+└──────────────┴──────────────┴──────────────┴──────────────┘
+```
+
+![Python](https://img.shields.io/badge/Python-8B4513?style=flat-square&logo=python&logoColor=F5DEB3)
+![C](https://img.shields.io/badge/C-654321?style=flat-square&logo=c&logoColor=F5DEB3)
+![SQL](https://img.shields.io/badge/SQL-A0522D?style=flat-square&logo=mysql&logoColor=F5DEB3)
+![JavaScript](https://img.shields.io/badge/JavaScript-D2691E?style=flat-square&logo=javascript&logoColor=F5DEB3)
+
+### 🍰 Web Development - The Recipe
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=F5DEB3)
+![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=flat-square&logo=html5&logoColor=F5DEB3)
+![CSS3](https://img.shields.io/badge/CSS3-654321?style=flat-square&logo=css3&logoColor=F5DEB3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-A0522D?style=flat-square&logo=bootstrap&logoColor=F5DEB3)
+
+### 🔮 AI & Automation - The Magic
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-8B4513?style=flat-square&logo=power-automate&logoColor=F5DEB3)
+![LangChain](https://img.shields.io/badge/LangChain-654321?style=flat-square&logo=chainlink&logoColor=F5DEB3)
+![NLP](https://img.shields.io/badge/NLP-A0522D?style=flat-square&logo=ai&logoColor=F5DEB3)
+![GenAI](https://img.shields.io/badge/GenAI_&_LLM-D2691E?style=flat-square&logo=openai&logoColor=F5DEB3)
+
+### 🗄️ Data Storage - The Pantry
+
+![MySQL](https://img.shields.io/badge/MySQL-8B4513?style=flat-square&logo=mysql&logoColor=F5DEB3)
+![SQLite](https://img.shields.io/badge/SQLite-654321?style=flat-square&logo=sqlite&logoColor=F5DEB3)
+
+---
+
+<div align="center">
+
+## 🏺 Featured Creations 🏺
+
+*Signature dishes from my kitchen of code*
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🚨 ABERTO EMS                                     ║
+║              Emergency Response, Perfected by AI                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  A life-saving AI assistant that reduced emergency response          ║
+║  time by 20%. Features an intelligent chatbot providing              ║
+║  immediate first-aid guidance when every second counts.              ║
+║                                                                      ║
+║  Ingredients: Python • Django • AI/LLM • JavaScript • HTML/CSS       ║
+║                                                                      ║
+║  Special: Real-time emergency dispatch & AI-powered assistance       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🍕 FOOD ORDERING PLATFORM                         ║
+║              Culinary Delights, Just a Click Away                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  A seamless dining experience crafted with care. Browse, select,     ║
+║  and order with an interface as smooth as your favorite latte.       ║
+║                                                                      ║
+║  Ingredients: Python • Django • SQL • HTML • CSS                     ║
+║                                                                      ║
+║  Special: Dynamic menu • Smart cart • Intuitive navigation           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ✈️ AI TRAVEL ITINERARY GENERATOR                  ║
+║              Your Personal Journey Architect                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  An intelligent travel companion that crafts personalized,           ║
+║  budget-friendly itineraries. Let AI plan your perfect adventure.    ║
+║                                                                      ║
+║  Ingredients: Python • Django • GANs • SQLite • AI Models            ║
+║                                                                      ║
+║  Special: Day-wise planning • Budget optimization • Smart tips       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 📚 My Journey - A Timeline 📚
+
+</div>
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║  2024  │  Sept - Dec  │  ⚙️  Automation Intern @ 3 A Solutions      ║
+║        │              │  Crafted automated workflows with Power       ║
+║        │              │  Automate, reducing manual efforts            ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║  2025  │  May         │  🎓  B.E. in AI & ML                         ║
+║        │              │  Saraswati College of Engineering             ║
+║        │              │  CGPA: 8.31 ⭐                                ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║  2021  │  May         │  📖  Higher Secondary (Science)              ║
+║        │              │  92.5% - A testament to dedication            ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 📊 The Numbers Tell a Story 📊
+
+*Statistics brewed fresh daily*
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsdisha404&show_icons=true&theme=gruvbox&hide_border=true&bg_color=FFF8DC&title_color=8B4513&icon_color=A0522D&text_color=654321&border_radius=15" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdisha404&theme=gruvbox&hide_border=true&background=FFF8DC&stroke=8B4513&ring=A0522D&fire=D2691E&currStreakLabel=8B4513&border_radius=15" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdisha404&layout=compact&theme=gruvbox&hide_border=true&bg_color=FFF8DC&title_color=8B4513&text_color=654321&border_radius=15" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-### 🔧 Automation Intern @ 3 A Solutions
-**Sept 2024 - Dec 2024**
+## 🎖️ Certifications & Honors 🎖️
 
-- Architected automated workflows using **Microsoft Power Automate**
-- Optimized existing automation flows for enhanced efficiency
-- Reduced manual effort and processing errors significantly
+*Credentials earned through dedication*
+
+</div>
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  🐍  Python & IoT Training  ....................... ExcelR     │
+│                                                                │
+│  ☕  Java Programming  ..................... Spoken Tutorial   │
+│                                                                │
+│  🔐  Cybersecurity  ................................ NPTEL     │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+## 🌟 Activity & Contribution 🌟
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+[![Disha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsdisha404&theme=github-compact&hide_border=true&bg_color=FFF8DC&color=8B4513&line=A0522D&point=654321&area=true&custom_title=Brewing%20Code%20Daily)](https://github.com/itsdisha404)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
-
 <div align="center">
 
-| Certificate | Provider | Focus Area |
-|-------------|----------|------------|
-| 🐍 Python & IoT Training | ExcelR | Programming & IoT |
-| ☕ Java Programming | Spoken Tutorial | Software Development |
-| 🔐 Cybersecurity | NPTEL | Security & Protection |
+## ☕ Current Menu ☕
+
+*What's brewing in my code kitchen*
 
 </div>
 
+```
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  🔭  Crafting advanced AI-driven automation projects          │
+│                                                               │
+│  🌱  Mastering LangChain & RAG implementations                │
+│                                                               │
+│  👯  Open for collaboration on innovative AI solutions        │
+│                                                               │
+│  💬  Ask me about: Python • Django • RPA • AI Workflows       │
+│                                                               │
+│  ⚡  Fun fact: I debug code like I brew coffee - precisely!  │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
 ---
-
-## 📈 Contribution Graph
-
-[![Disha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## 💡 Core Competencies
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Disha Patil))
-    AI Development
-      NLP
-      GenAI & LLMs
-      Model Training
-    Automation
-      RPA Tools
-      Power Automate
-      Workflow Design
-    Web Development
-      Django
-      Full Stack
-      Database Design
-    Problem Solving
-      Quick Learning
-      Adaptability
-      Collaboration
+## 🎯 Core Specialties 🎯
+
+```
+        AI Development          Web Artistry         Automation
+             │                      │                    │
+             ├─ NLP                 ├─ Django            ├─ RPA Tools
+             ├─ GenAI & LLMs        ├─ Full Stack       ├─ Power Automate
+             └─ Model Training      └─ Database Design  └─ Workflow Design
+                                            │
+                    ┌───────────────────────┴──────────────────┐
+                    │                                          │
+              Problem Solving                           Collaboration
+                    │                                          │
+              Quick Learning                              Adaptability
 ```
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on advanced **AI-driven automation** projects
-- 🌱 Learning **LangChain** and **RAG** implementations
-- 👯 Open to collaborating on **innovative AI solutions**
-- 💬 Ask me about **Python, Django, RPA, or AI workflows**
-
----
-
-## 📫 Let's Build Something Amazing Together!
-
 <div align="center">
 
-**"Innovation distinguishes between a leader and a follower."**
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                    ☕ Let's Brew Something Amazing ☕                 ║
+║                                                                       ║
+║         "Good code is like good coffee - carefully crafted,          ║
+║          thoughtfully presented, and always worth the wait."          ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=itsdisha404&color=8B4513&style=for-the-badge&label=CAFÉ+VISITORS)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" style="border-radius: 15px;"/>
 
-### ⭐ From [Disha Patil](https://github.com/YOUR_GITHUB_USERNAME) | Making AI Accessible & Impactful ⚡
+### ⭐ From [Disha's Code Café](https://github.com/itsdisha404) ⭐
+
+*Where algorithms meet artistry, one commit at a time*
+
+```
+    ☕ Thank you for visiting! ☕
+    
+    Made with ❤️ and lots of coffee
+```
 
 </div>
